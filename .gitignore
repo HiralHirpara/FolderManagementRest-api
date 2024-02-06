@@ -25,3 +25,4 @@ replay_pid*
 /target/
 HELP.md
 .DS_Store
+application.properties
