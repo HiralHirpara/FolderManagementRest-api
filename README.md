@@ -4,7 +4,7 @@ Folder Management REST API developed using java and springboot framework.
 
 ## API workflow :
 
-List all top-level files and folders.
+List all top-level files and folders.\n
 List all files and folders in an existing folder.
 Create new top level folder.
 Create a new folder in an existing folder.
